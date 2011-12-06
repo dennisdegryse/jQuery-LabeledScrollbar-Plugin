@@ -1,0 +1,22 @@
+.dede-labeledscrollbar {
+    background: #222;
+}
+
+.dede-labeledscrollbar-handle {
+    display: block;
+    width: 50px;
+    height: 100%;
+    background: #ccc;
+}
+
+.dede-labeledscrollbar-label {
+	top : -50px;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	display: block;
+	background: #fff;
+	color: #222;
+	font-size: 2em;
+	text-align: center; 
+}
