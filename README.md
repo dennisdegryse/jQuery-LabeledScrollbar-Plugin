@@ -18,6 +18,7 @@ Requirements
 ----------------
 
 This jQuery plugin requires:
+
 * [jQuery v1.7.x](https://github.com/jquery/jquery)
 * [jQuery UI v1.8.x](https://github.com/jquery/jquery-ui)
 
@@ -26,5 +27,6 @@ Licensing
 ----------------
 
 This software is protected by the Creative Commons (CC) License 'Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0). More information about this license can be found at:
+
 * https://github.com/dennisdegryse/jQuery-LabeledScrollbar-Plugin/blob/master/CC-LICENSE.txt
 * http://creativecommons.org/licenses/by-sa/3.0/
